@@ -19,6 +19,6 @@ We can make 5 different kinds of splits:
 SHOW command is used to display the balance sheet (with/without simplify).
 
 We also made a flask application on the same functionality.
-You can access the same app from our flask app at https://divideal.pythonanywhere.com/
+You can access the same app from our flask app at <a href="https://divideal.pythonanywhere.com/" Title="DiviDeal">DiviDeal</a>
 
 Thank you.
